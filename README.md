@@ -2,15 +2,13 @@
 
 A new Flutter project.
 
-## Getting Started
+Screenshots:
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+![image](https://github.com/aemami76/quiz_app/assets/137769785/75c7394e-d24f-46ac-b0f9-d0fc9f45abd5)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/aemami76/quiz_app/assets/137769785/4a8b9fc9-e1aa-439d-85db-41ae3350589e)
+
+
+![image](https://github.com/aemami76/quiz_app/assets/137769785/2546cd37-0ef1-4315-9a31-93ffc3225d6f)
